@@ -5,7 +5,7 @@
 |  subject |  link   |
 | ---------|---------|
 | class 01 | [click here]()|
-| class 02 | [click here]()|
+| class 02 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-401/class02)|
 | class 03 | [click here]()|
 | class 04 | [click here]()|
 | class 05 | [click here]()|
