@@ -7,7 +7,7 @@
 | class 01 | [click here]()|
 | class 02 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-401/class02)|
 | class 03 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-401/class03)|
-| class 04 | [click here]()|
+| class 04 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-401/class04)|
 | class 05 | [click here]()|
 | class 06 | [click here]()|
 | class 07 | [click here]()|
