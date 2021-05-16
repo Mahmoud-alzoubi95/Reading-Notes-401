@@ -10,7 +10,7 @@
 | class 04 | [click here](https://mahmoud-alzoubi95.github.io/Reading-Notes-401/class04)|
 | class 05 | [click here]()|
 | class 06 | [click here]()|
-| class 07 | [click here]()|
+| class 07 | [click here](https://github.com/Mahmoud-alzoubi95/Reading-Notes-401/blob/main/class07.md)|
 | class 08 | [click here]()|
 | class 09 | [click here]()|
 | class 10 | [click here]()|
